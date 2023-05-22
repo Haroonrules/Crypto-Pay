@@ -12,6 +12,9 @@ module.exports = {
         graident:
           "linear-gradient(130.96deg, #FC7CFF 13.42%, #484FF5 33.67%, #61D89F 61.6%, #999CFB 91.15%)",
       },
+      textColor: {
+        muted: "rgba(255, 255, 255, 0.7)",
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
